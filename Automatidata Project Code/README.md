@@ -1,18 +1,18 @@
 # Project Overview: New York City Taxi and Limousine Commission (TLC)
 
-## Project Goal
+#### Project Goal
 In this project, we partnered with the New York City Taxi and Limousine Commission (TLC) to develop an app that allows TLC riders to estimate their taxi fares before their ride.
 
-## Background
+#### Background
 The TLC has been responsible for the regulation and licensing of New York City's taxi cabs, for-hire vehicles, commuter vans, and paratransit vehicles since 1971.
 
-## Scenario
+#### Scenario
 As a data professional at Automatidata, a data consulting firm that transforms unused and stored data into useful solutions, I was tasked with consulting with The New York City Taxi & Limousine Commission. The goal was to develop an app that would help users (TLC riders) estimate their taxi fares before their ride.
 
-## Data Information
+#### Data Information
 The project utilizes a dataset named `2017_Yellow_Taxi_Trip_Data`, which was gathered by the New York City Taxi & Limousine Commission. Each row in the dataset represents a different trip, and there are many different data variables gathered for each trip. The dataset contains 408,294 rows and 18 columns.
 
-## Data Dictionary
+#### Data Dictionary
 
 | Column Name             | Description |
 |-------------------------|-------------|
